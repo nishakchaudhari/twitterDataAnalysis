@@ -16,12 +16,7 @@ import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 import org.apache.hadoop.mapreduce.lib.output.TextOutputFormat;
 
-/**
- * Created with IntelliJ IDEA.
- * User: pascal
- * Date: 16-07-13
- * Time: 12:07
- */
+
 public class Driver {
 
 	public static void main(String[] args) throws Exception
